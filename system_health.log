@@ -1,0 +1,24 @@
+-------------------------------------------
+🖥️  System Health Report - Fri Nov  7 11:47:04 CET 2025
+-------------------------------------------
+
+🔹 CPU Load:
+11:47  up 57 days,  4:32, 3 users, load averages: 1.76 1.74 3.01
+
+🔹 Memory Usage:
+Pages free:                                4179.
+Pages active:                            215092.
+Pages inactive:                          213425.
+Pages wired down:                        130711.
+
+🔹 Disk Usage:
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s3s1   460Gi    10Gi   348Gi     3%    426k  3.6G    0%   /
+
+🔹 Top 5 Processes by CPU Usage:
+ 64.2 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+ 21.8 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/139.0.7258.157/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=018fa160-1e4a-4f6d-94da-aaf0d0a019a4 --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7858 --time-ticks-at-unix-epoch=-1757593719824415 --launch-time-ticks=396487966076 --shared-files --metrics-shmem-handle=1752395122,r,10372031020336054993,4440745384439741416,2097152 --field-trial-handle=1718379636,r,14424963524944685021,9487566419364373633,262144 --variations-seed-version=20250910-050044.012000 --seatbelt-client=109
+ 13.8 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+  9.8 /usr/libexec/ReportMemoryException
+  7.2 /System/Library/CoreServices/ReportCrash daemon
+
